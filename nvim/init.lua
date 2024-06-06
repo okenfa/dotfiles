@@ -1,7 +1,7 @@
 vim.g.mapleader = ' '
 
 require('gui')
-require('options')
+require('settings')
 require('plugins')
 require('keybindings')
 
